@@ -1,0 +1,7 @@
+tensorflow-aarch64
+keras
+sklearn
+numpy
+opencv-python
+matplotlib
+imutils
